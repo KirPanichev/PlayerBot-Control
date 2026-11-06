@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: PlayerBot Control
+## Notes: Управление ботами mod-playerbots: окно команд у миникарты.
+## Author: Zloy
+## Version: 1.0.0
+## X-Category: Interface
+## X-Website: https://github.com/liyunfan1223/mod-playerbots/wiki/Playerbot-Commands
+
+PlayerBotControl.lua
